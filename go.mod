@@ -21,6 +21,7 @@ require (
 	github.com/emicklei/dot v0.11.0
 	github.com/fatih/color v1.7.0
 	github.com/fjl/gencodec v0.0.0-20191126094850-e283372f291f
+	github.com/go-kit/kit v0.10.0 // indirect
 	github.com/go-sourcemap/sourcemap v2.1.3+incompatible // indirect
 	github.com/go-stack/stack v1.8.0
 	github.com/goccy/go-json v0.4.11
@@ -46,7 +47,7 @@ require (
 	github.com/mattn/go-isatty v0.0.12
 	github.com/pelletier/go-toml v1.9.3
 	github.com/petar/GoLLRB v0.0.0-20190514000832-33fb24c13b99
-	github.com/prometheus/client_golang v1.9.0
+	github.com/prometheus/client_golang v1.11.1
 	github.com/prometheus/tsdb v0.10.0
 	github.com/quasilyte/go-ruleguard/dsl v0.3.6
 	github.com/rs/cors v1.8.0
